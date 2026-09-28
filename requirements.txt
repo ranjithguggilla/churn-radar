@@ -1,0 +1,8 @@
+pandas==3.0.2
+numpy==2.4.4
+scikit-learn==1.8.0
+xgboost>=3.0
+matplotlib==3.10.9
+joblib>=1.4
+fastapi>=0.115
+uvicorn[standard]>=0.30
